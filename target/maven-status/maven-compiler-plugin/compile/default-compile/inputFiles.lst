@@ -1,0 +1,16 @@
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/repository/ProductoRepository.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/model/Cliente.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/dto/ClienteDTO.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/repository/ClienteRepository.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/service/impl/ClienteServiceImpl.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/ArqCapasV2Application.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/dto/ProductoDTO.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/controller/ProductoController.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/exception/ResourceNotFoundException.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/service/impl/ProductoServiceImpl.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/controller/ClienteController.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/exception/GlobalExceptionHandler.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/config/OpenApiConfig.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/service/ProductoService.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/model/Producto.java
+/Users/greciadelgado/Desktop/Grecia-Projects/Codigo-Tecsup/CAPAS-arquitectura/java-arq-capas-test/src/main/java/com/gestionapp/service/ClienteService.java
