@@ -24,6 +24,11 @@ WORKDIR /app
 
 COPY target/*.jar app.jar
 
-EXPOSE 8080
+EXPOSE 8081
+
+# Variables de entorno para la conexión a Neon
+ENV SPRING_DATASOURCE_URL=jdbc:postgresql://ep-twilight-sound-a504i3no-pooler.us-east-2.aws.neon.tech/MyJavaApp
+ENV SPRING_DATASOURCE_USERNAME=MyJavaApp_owner
+ENV SPRING_DATASOURCE_PASSWORD=npg_eFrWmzsd10BI
 
 ENTRYPOINT ["java", "-jar", "app.jar"]
