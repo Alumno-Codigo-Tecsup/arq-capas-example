@@ -1,0 +1,5 @@
+com/gestionapp/service/ProductoServiceTest.class
+com/gestionapp/ArqCapasV2ApplicationTests.class
+com/gestionapp/controller/ClienteControllerTest.class
+com/gestionapp/controller/ProductoControllerTest.class
+com/gestionapp/service/ClienteServiceTest.class

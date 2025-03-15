@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.gestionapp.service.ClienteServiceTest
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.052 s -- in com.gestionapp.service.ClienteServiceTest
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.053 s -- in com.gestionapp.service.ClienteServiceTest
