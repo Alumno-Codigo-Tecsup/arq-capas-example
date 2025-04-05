@@ -1,10 +1,25 @@
 version: '3.8'
 
+name: gestion-app-container
+
 services:
   app:
     build: .
+    container_name: gestion-app
+    image: gestion-app:latest
     ports:
-      - "8080:8080"
+      - "8000:8000"
     env_file:
       - .env
     restart: always
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/actuator/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    name: gestion-app-network
